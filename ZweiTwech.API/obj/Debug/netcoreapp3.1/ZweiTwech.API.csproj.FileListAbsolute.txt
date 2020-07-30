@@ -52,3 +52,14 @@ D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\nativ
 D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
 D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
 D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\ZweiTwech.API.deps.json
+D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\ZweiTwech.API.runtimeconfig.json
+D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\ZweiTwech.API.runtimeconfig.dev.json
+D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\ZweiTwech.API.dll
+D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\ZweiTwech.API.pdb
+D:\RepoGit\ZweiTech\ZweiTwech.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\RepoGit\ZweiTech\ZweiTwech.API\obj\Debug\netcoreapp3.1\ZweiTwech.API.csproj.CoreCompileInputs.cache
+D:\RepoGit\ZweiTech\ZweiTwech.API\obj\Debug\netcoreapp3.1\ZweiTwech.API.MvcApplicationPartsAssemblyInfo.cache
+D:\RepoGit\ZweiTech\ZweiTwech.API\obj\Debug\netcoreapp3.1\ZweiTwech.API.dll
+D:\RepoGit\ZweiTech\ZweiTwech.API\obj\Debug\netcoreapp3.1\ZweiTwech.API.pdb
+D:\RepoGit\ZweiTech\ZweiTwech.API\obj\Debug\netcoreapp3.1\ZweiTwech.API.genruntimeconfig.cache

@@ -21,8 +21,9 @@ namespace ZweiTwech.API.Data
 
         public Person AddPerson(Person person)
         {
-            // Add the person to the database
+            // Add Time stamp when added
             person.DateAdded = DateTime.Now;
+            // Add the person to the database
             _db.Add(person);
             _db.SaveChangesAsync();
             return person;

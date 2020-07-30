@@ -13,6 +13,7 @@ namespace ZweiTwech.API.Profiles
         public PersonProfiles()
         {
             CreateMap<Person, CreatePersonDto>();
+            CreateMap<CreatePersonDto, Person>();
         }
     }
 }

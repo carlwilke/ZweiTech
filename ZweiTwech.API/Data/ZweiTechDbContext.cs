@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using ZweiTwech.API.Controllers;
+using ZweiTwech.API.Models;
 
 namespace ZweiTwech.API.Data
 {
@@ -14,6 +14,6 @@ namespace ZweiTwech.API.Data
 
         }
 
-        public DbSet<PersonController> Type { get; set; }
+        public DbSet<Person> Persons { get; set; }
     }
 }
